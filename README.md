@@ -1,6 +1,5 @@
 ## CENSEO Noiselab
 # Views
-
 1. Business
 - Iot Methodology for BIM
 
@@ -8,7 +7,7 @@
 - Building Related Noise and Vibration Troubleshooting
 
 3. Usage
-- Builing Development Stakeholders
+- Building Development Stakeholders
 
 4. Implementation
 - Private/Public API 
@@ -18,6 +17,7 @@
 [Censeo Team](https://www.censeo.design)
 ```
 Contributors:
+```
 -[Larson Davis](http://www.larsondavis.com/Products/NoiseMonitoringSystems)
 
 -[BeamformX](https://www.optinav.com/beamformx-aeroacoustic-detector)
