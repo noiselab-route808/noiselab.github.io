@@ -23,9 +23,9 @@ Contributors:
 -[BeamformX](https://www.optinav.com/beamformx-aeroacoustic-detector)
 
 ### Current Standards (Alyways current mode)
-1. Community
-2. Industrial
-3. Mixed
+1. [Community]
+2. [Industrial]
+3. [Mixed]
 
 # Current Lab Projects:
 
