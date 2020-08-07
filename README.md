@@ -1,22 +1,23 @@
 ## CENSEO Noiselab
-# Topics
+# Views
 
+1. Business
 - Iot Methodology for BIM
-- Building Related Noise and Vibration
 
+2. Function
+- Building Related Noise and Vibration Troubleshooting
 
-### API
+3. Usage
+- Builing Development Stakeholders
 
-1. Numbered
-2. List
+4. Implementation
+- Private/Public API 
 
+Organizational Team
 
-
-[Censeo Team](https://www.censeo.design) and ![Logo](src)
+[Censeo Team](https://www.censeo.design)
 ```
 
+### Current Standards (Alyways current mode)
 
-
-**Bold** and _Italic_ and `Code` text
-### Support or Contact
-
+# Current Lab Projects:
