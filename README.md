@@ -16,16 +16,14 @@
 
 [Censeo Team](https://www.censeo.design)
 ```
-Contributors:
-```
 -[Larson Davis](http://www.larsondavis.com/Products/NoiseMonitoringSystems)
 
 -[BeamformX](https://www.optinav.com/beamformx-aeroacoustic-detector)
 
 ### Current Standards (Alyways current mode)
-1. [Community]
-2. [Industrial]
-3. [Mixed]
+1. [Community](routeC)
+2. [Industrial](routeI)
+3. [Mixed](routeM)
 
 # Current Lab Projects:
 
