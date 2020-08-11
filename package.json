@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/noiselab-route808/noiselab-route808.github.io#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "telnet-client": "^1.4.5"
   }
 }

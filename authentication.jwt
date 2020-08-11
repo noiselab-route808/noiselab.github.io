@@ -1,0 +1,35 @@
+let jwt = require('jsonwebtoken');
+
+const SUPER_SECRET_TOKEN = "My_Secret_Token";
+
+server.post('/',(req,res)=>{
+    res.setHeader('Content-Type', 'application/json');
+    var token = jwt.sign({message: "Hello"}, SUPER_SECRET_TOKEN, { expiresIn: '5m' , noTimestamp: true });
+    var result = jwt.verify(token, SUPER_SECRET_TOKEN);
+    res.end(JSON.stringify({error: false, data: result}));
+});
+
+//header 
+// {
+// "alg": "HS512",
+// "typ": "JWT"
+// }
+
+
+//payload
+//{
+//  "project": "Waiea",
+//  "client": "ACME Corp",
+//  "user": true,
+//  "iat": 1516239022
+//}
+
+//signature
+// HMACSHA512(
+// base64UrlEncode(header) + "." +
+// base64UrlEncode(payload),
+// acousticsIs@155
+  
+
+
+// https://jwt.io/#debugger-io?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0IjoiV2FpZWEiLCJjbGllbnQiOiJBQ01FIENvcnAiLCJ1c2VyIjp0cnVlLCJpYXQiOjE1MTYyMzkwMjJ9.UJ7-tZeYEtExCpV3jRPb0WtASIEveF7DVrpQU3J5KSv4NvW2_1i45wZNFMBPOAnoxx0SIbh65oco2497pvbINQ
