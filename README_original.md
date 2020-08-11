@@ -1,4 +1,4 @@
-## Welcome to CENSEO Noiselab
+## CENSEO Noiselab for BIM project integration
 # Topics
 
 - Iot Methodology for BIM
