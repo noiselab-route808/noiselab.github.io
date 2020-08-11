@@ -1,0 +1,29 @@
+{
+  "name": "noiselab",
+  "version": "1.0.0",
+  "description": "CA services route for BIM development projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noiselab-route808/noiselab-route808.github.io.git"
+  },
+  "keywords": [
+    "bim",
+    "IoT",
+    "saas",
+    "baas",
+    "ipv6routing"
+  ],
+  "author": "J.Hagedorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noiselab-route808/noiselab-route808.github.io/issues"
+  },
+  "homepage": "https://github.com/noiselab-route808/noiselab-route808.github.io#readme",
+  "dependencies": {
+    "telnet-client": "^1.4.5"
+  }
+}
