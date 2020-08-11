@@ -1,11 +1,9 @@
 ## CENSEO Noiselab
-# Views
-1. Business
-- Iot Methodology for BIM
-
+# Project Iot Views
+1. BIM
+- Iot Object Classes 
 2. Function
 - Building Related Noise and Vibration Troubleshooting
-
 3. Usage
 - Building Development Stakeholders
 
@@ -15,17 +13,8 @@
 # Organizational Team:
 
 [Censeo Team](https://www.censeo.design)
+[Larson Davis](http://www.larsondavis.com/Products/NoiseMonitoringSystems)
+[BeamformX](https://www.optinav.com/beamformx-aeroacoustic-detector)
 
--[Larson Davis](http://www.larsondavis.com/Products/NoiseMonitoringSystems)
-
--[BeamformX](https://www.optinav.com/beamformx-aeroacoustic-detector)
-
-### Current Standards (Alyways current mode)
-1. [Community](routeC)
-2. [Industrial](routeI)
-3. [Mixed](routeM)
-
-# Current Lab Projects:
-
-### Iot hub
+### Routes
 
