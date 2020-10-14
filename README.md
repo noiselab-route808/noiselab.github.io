@@ -5,7 +5,7 @@
 2. Function
 - Building Related Noise and Vibration Troubleshooting
 3. Usage
-- Building Development 
+- Building Design and Development 
 
 4. Implementation
 - Private/Public API 
