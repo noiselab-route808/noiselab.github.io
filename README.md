@@ -2,7 +2,7 @@
 # BIM Project IoT Views
 1. Construction Administration Services
 - Iot Object Classes 
-2. Function
+2. Private API 
 - Building Related Noise and Vibration Troubleshooting
 3. Field Deployment
 - Building Design and Development 
