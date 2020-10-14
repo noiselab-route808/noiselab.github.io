@@ -1,11 +1,11 @@
 ## CENSEO Noiselab Applied Research
 # BIM Project IoT Views
 1. Construction Administration Services
-- Iot Object Classes 
+- IoT Support
 2. Private API 
-- Building Related Noise and Vibration Troubleshooting
+- Third Party Noise and Vibration Support and Troubleshooting
 3. Field Deployment
-- Building Design and Development 
+- LD and ACAM120 Deployment 
 4. IFC JSON Network Infrastructure (draft specifications)
 - Cloud Deployment
 
