@@ -7,12 +7,10 @@
 3. Field Deployment
 - LD and ACAM120 Deployment 
 4. IFC JSON Network Infrastructure (draft specifications)
-- Cloud Deployment
+- BIM Model Network and AV object specifications
 
 ## Research:
 # IoT End Point Programming
 -[Censeo Team](https://www.censeo.design)
 -[Larson Davis](http://www.larsondavis.com/Products/NoiseMonitoringSystems)
 -[BeamformX](https://www.optinav.com/beamformx-aeroacoustic-detector)
-
-
