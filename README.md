@@ -4,10 +4,6 @@
 - IoT Noise and Vibration Endpoint Support
 2. Private API Development 
 - Third Party Noise and Vibration Routing
-3. Field Deployment
-- LD and ACAM120 Deployment 
-4. IFC JSON Network Infrastructure (draft specifications)
-- BIM Model Network and AV object specifications
 
 ## Active Research Projects
 # IoT End Point Programming and Analysis
