@@ -1,9 +1,8 @@
 # Noiselab Applied Research
+
+## IoT endpoint communications
+
 ## SLM Trigger Input over HTTP
-
-
-
-## IoT End Point Control
 
 related links:
 [Censeo Team](https://www.censeo.design)
